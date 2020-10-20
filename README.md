@@ -1,8 +1,8 @@
-#RC4 Python
+# RC4 Python
 
 **This repository contains a Python implementation of RC4.** 
 
-##Intorduction
+## Intorduction
 
 RC4 was designed in 1987 by Ron Rivest of RSA Security. RC4 has been one of the most used stream cipher from its release in 1994 until 2014.  It saw implementation in many protocols like SSH, TSL, WEP etc.  Even though it is vulnerable to crypto-analyses as result of relations between input (secret key) and output (keystream), it managed to be of use for 20 years, when many other alternatives could not. Google and Microsoft dropped support for RC4 in 2015 after researchers managed to decrypt a cooky send over TSL with RC4 in (just) 52 hours.   
 
