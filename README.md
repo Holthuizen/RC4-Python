@@ -1,6 +1,6 @@
 #RC4 Python
 
-*This repository contains a Python implementation of RC4.* 
+**This repository contains a Python implementation of RC4.** 
 
 ##Intorduction
 
