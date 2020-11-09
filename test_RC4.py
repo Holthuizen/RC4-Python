@@ -3,7 +3,7 @@ from RC4 import RC4
 
 class TestRC4(unittest.TestCase):
     def test_types(self): 
-        ''' make sure a type error is raise when input is not of type String''' 
+        ''' make sure a type error is raised when input is not of type String''' 
         self.assertRaises(TypeError,RC4,-2)
         self.assertRaises(TypeError,RC4,True)
 
