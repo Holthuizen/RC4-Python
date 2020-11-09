@@ -4,10 +4,10 @@
 
 For a Node JS version check my gist: https://gist.github.com/Holthuizen/a84c12038f4cec47d9264d69c23db4da 
 
-# RC4-Python #GITHUB
+# RC4-Python 
 RC4 stream cipher
 This repository contains two RC4 implementations in python. The first is an exact copy of the in 1994 leaked algorithm that was designed in 1987 by Ron Rivest of RSA Security. 
-The second proposes a modification to the Key-scheduling algorithm (KSA) to theoretically improve entropy of the initial state, reducing the effectiveness of current crypto analysis on RC4. 
+The second proposes a modification to the Key-scheduling algorithm (KSA) to theoretically improve entropy of the initial state, reducing the effectiveness of current crypto analysis on RC4. The modified file is still WIP and is presented as .ipynb file (jupyter notebook).
 
 ## Introduction:
 
