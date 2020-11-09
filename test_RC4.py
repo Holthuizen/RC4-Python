@@ -8,6 +8,7 @@ class TestRC4(unittest.TestCase):
         self.assertRaises(TypeError,RC4,True)
 
     def test_key_not_empty(self):
+        '''test to make sure key cannot be set to empty'''
         self.assertRaises(ValueError,RC4,"")
     
     def test_output(self):
