@@ -1,7 +1,8 @@
 '''
     ARC4 or ARCFOUR Algorithm Class with stream generator. 
     Author: C.d.B.
-    License: MIT
+    License: MIT 
+    git https://github.com/Holthuizen/RC4-Python 
 '''
 
 class RC4: 
